@@ -12,4 +12,3 @@ Clique no documento para visualizar o comando utilizado e em baixo a saída.
 7. [Questão 07](7.md)
 8. [Questão 08](8.md)
 9. [Questão 09](9.md)
-10. [Questão 10](10.md)
